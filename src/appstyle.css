@@ -1,0 +1,18 @@
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f5f5f5;
+}
+
+.App {
+  min-height: 100%;
+}
+
+footer {
+  padding: 16px;
+  text-align: center;
+  background: #fff;
+  border-top: 1px solid #eee;
+}
